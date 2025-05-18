@@ -12,11 +12,11 @@ Storing plaintext passwords is a security risk. This microservice ensures that p
 
 1. Clone the repository: `git clone https://github.comJazmiaCornell/microserviceA.git`
 2. Install Dependecies: `npm install`
-3. Run the microservice: `node index.js`
+3. Run the microservice: `node microserviceA.js`
 
 ### Usage Notes
 
-- To implement password hashing, you only need to run and interact with the `index.js` file.
+- To implement password hashing, you only need to run and interact with the `microserviceA.js` file.
 
 - The `client.js` file is provided only for demonstration and is not required for integrating the microservice into your project.
 
