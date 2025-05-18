@@ -43,7 +43,7 @@ app.post("/hash", async (req, res) => {
       plaintext_password: plaintext_password,
     });
     ...
-  } catch (error) {
+  } catch (e) {
     ...
   }
 });
