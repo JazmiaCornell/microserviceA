@@ -57,4 +57,5 @@ To recieve a hashed password from Microservice A, the HTTP POST request must wai
 
 ### UML Sequence Diagram
 
-See the interactions between the main program and Microservice A in the `UML_diagram.png` file.
+Shows the interactions between the main program and Microservice A. Also shown in the `UML_diagram.png` file.
+![alt text](image.png)
